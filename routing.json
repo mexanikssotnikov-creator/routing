@@ -23,5 +23,5 @@
   "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
   "FakeDNS": "true",
-  "UseChunkFiles": "true"
+  "UseChunkFiles": "false"
 }
